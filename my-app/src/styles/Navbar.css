@@ -1,0 +1,54 @@
+/* Add background color to the forms */
+.navbar__title{
+    font-size: 50px;
+    background-color: pink;
+    align-items: center;
+    display: inline;
+}
+.form-container {
+    background-color: #f0f0f0; /* You can change the color as needed */
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  /* Separate the nav links and place them on the left */
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333; 
+    padding: 10px;
+  }
+  
+  .navbar__links {
+    display: flex;
+    gap: 50px;
+    padding: 30px;
+    align-items: left;
+    
+  }
+  
+  /* Place the search bar and user avatar on the right */
+  .search-bar {
+    margin-left: auto;
+  }
+  
+  .user-avatar {
+    margin-left: 10px;
+  }
+  
+  /* Style the form links */
+  .form-link {
+    color: #007bff; 
+    cursor: pointer;
+    text-decoration: underline;
+  }
+  
+  .form-link:hover {
+    text-decoration: none;
+  }
+  .navbar__avatar img {
+    width: 30px; 
+    height: 30px; 
+    border-radius: 50%; 
+  }  

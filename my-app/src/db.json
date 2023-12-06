@@ -1,0 +1,303 @@
+[
+    {
+        "id": 1,
+        "name": "Blotted Lip",
+        "image":"https://cdn.shopify.com/s/files/1/1338/0845/products/brain-freeze_a_800x1200.jpg?v=1502255076",
+        "description":  "Blotted Lip Sheer matte lipstick that creates the perfect popsicle pout! Formula is lightweight, matte and buildable for light to medium coverage.",
+        "price": "$5",
+        "rating": null,
+        "category": "lipstick",
+        "product_type": "lipstick",
+        "product_colors": [
+            {
+              "hex_value": "#b72227",
+              "colour_name": "Bee's Knees"
+            },
+            {
+              "hex_value": "#BB656B",
+              "colour_name": "Brain Freeze"
+            },
+            {
+              "hex_value": "#8E4140",
+              "colour_name": "Drip"
+            },
+            {
+              "hex_value": "#A12A33",
+              "colour_name": "On a Stick"
+            },
+            {
+              "hex_value": "#904550",
+              "colour_name": "Ice Cube"
+            },
+            {
+              "hex_value": "#452222",
+              "colour_name": "Lolly"
+            },
+            {
+              "hex_value": "#7C3F35",
+              "colour_name": "Candyfloss"
+            }
+          ]
+      
+      
+    },
+    {
+        "id": 2,
+        "name": "Talented",
+        "image":"https://cdn.shopify.com/s/files/1/0314/1143/7703/products/kind-words-matte-lipstick-talented_540x.jpg?v=1655864623",
+        "description":  "Blotted Lip Sheer matte lipstick that creates the perfect popsicle pout! Formula is lightweight, matte and buildable for light to medium coverage.",
+        "price": "$5",
+        "rating": null,
+        "category": "lipstick",
+        "product_type": "lipstick"
+    },
+    {
+        "id": 3,
+        "name": "Nearly-Neutral",
+        "image":"https://cdn.shopify.com/s/files/1/0314/1143/7703/products/Glossy-Lip-Balm-NearlyNeutral-SKU_540x.jpg?v=1608610737",
+        "description":  "Blotted Lip Sheer matte lipstick that creates the perfect popsicle pout! Formula is lightweight, matte and buildable for light to medium coverage.",
+        "price": "$5",
+        "rating": null,
+        "category": "lipstick",
+        "product_type": "lipstick"
+    },
+    {
+        "id": 4,
+        "name": "Everyday-Rose",
+        "image":"https://cdn.shopify.com/s/files/1/0314/1143/7703/files/everyday-rose-lip-duo-product-box-1440x1952_540x.jpg?v=1694644017",
+        "description":  "Blotted Lip Sheer matte lipstick that creates the perfect popsicle pout! Formula is lightweight, matte and buildable for light to medium coverage.",
+        "price": "$5",
+        "rating": null,
+        "category": "lipstick",
+        "product_type": "lipstick"
+    },
+    {
+        "id": 5,
+        "name": "Elevate",
+        "image":"https://cdn.shopify.com/s/files/1/0314/1143/7703/products/lip-souffle-matte-lip-cream-elevate-sku-1440x1952_540x.jpg?v=1697656670",
+        "description":  "Blotted Lip Sheer matte lipstick that creates the perfect popsicle pout! Formula is lightweight, matte and buildable for light to medium coverage.",
+        "price": "$5",
+        "rating": null,
+        "category": "lipstick",
+        "product_type": "lipstick"
+    },
+    {
+        "id": 6,
+        "name": "Blotted Lip",
+        "image":"https://cdn.shopify.com/s/files/1/1338/0845/products/brain-freeze_a_800x1200.jpg?v=1502255076",
+        "description":  "Blotted Lip Sheer matte lipstick that creates the perfect popsicle pout! Formula is lightweight, matte and buildable for light to medium coverage.",
+        "price": "$5",
+        "rating": null,
+        "category": "lipstick",
+        "product_type": "lipstick"
+    },
+    {
+        "id": 7,
+        "name": "Hope",
+        "image":"https://cdn.shopify.com/s/files/1/0314/1143/7703/products/soft-pinch-tinted-lip-oil-hope-1440x1952_720x.jpg?v=1679094432",
+        "description":  "Blotted Lip Sheer matte lipstick that creates the perfect popsicle pout! Formula is lightweight, matte and buildable for light to medium coverage.",
+        "price": "$5",
+        "rating": null,
+        "category": "lipstick",
+        "product_type": "lipstick"
+    },
+    {
+        "id": 8,
+        "name": "Compliment",
+        "image":"https://cdn.shopify.com/s/files/1/0314/1143/7703/products/Dewy-Lip-COMPLIMENT-SKU_900x.jpg?v=1598651396",
+        "description":  "Blotted Lip Sheer matte lipstick that creates the perfect popsicle pout! Formula is lightweight, matte and buildable for light to medium coverage.",
+        "price": "$5",
+        "rating": null,
+        "category": "lipstick",
+        "product_type": "lipstick"
+    },
+    {
+        "id": 9,
+        "name": "Empathy",
+        "image":"https://cdn.shopify.com/s/files/1/0314/1143/7703/products/Dewy-Lip-EMPATHY-SKU_540x.jpg?v=1598651396",
+        "description":  "Blotted Lip Sheer matte lipstick that creates the perfect popsicle pout! Formula is lightweight, matte and buildable for light to medium coverage.",
+        "price": "$5",
+        "rating": null,
+        "category": "lipstick",
+        "product_type": "lipstick"
+    },
+    {
+        "id": 10,
+        "name": "Lovenimo",
+        "image":"https://media.istockphoto.com/id/1458639342/photo/red-lipstick-close-up-on-pink-background.jpg?s=612x612&w=0&k=20&c=ksPp8FTfQbKPrpGYhSQv_22T_wuf9uIi0fWZtqgtZwM=",
+        "description":  "Blotted Lip Sheer matte lipstick that creates the perfect popsicle pout! Formula is lightweight, matte and buildable for light to medium coverage.",
+        "price": "$5",
+        "rating": null,
+        "category": "lipstick",
+        "product_type": "lipstick"
+    },
+    {
+        "id": 11,
+        "name": "Pastel Pale",
+        "image":"https://media.istockphoto.com/id/1160293026/photo/3d-realistic-render-of-pink-lipstick-on-pastel-pale-background.jpg?s=612x612&w=is&k=20&c=w0WUIKQogOzT8qxlT10h7iNNRdinP11bUN2ZrixrBD0=",
+        "description":  "Blotted Lip Sheer matte lipstick that creates the perfect popsicle pout! Formula is lightweight, matte and buildable for light to medium coverage.",
+        "price": "$5",
+        "rating": null,
+        "category": "lipstick",
+        "product_type": "lipstick"
+    },
+    {
+        "id": 12,
+        "name": "Nrey",
+        "image":"https://media.istockphoto.com/id/524430065/vector/lipstick-set.jpg?s=612x612&w=is&k=20&c=q8o8soE8IAH3Ax_5tloXoliGw-nyux1q1mzeCLn84a0=",
+        "description":  "Blotted Lip Sheer matte lipstick that creates the perfect popsicle pout! Formula is lightweight, matte and buildable for light to medium coverage.",
+        "price": "$5",
+        "rating": null,
+        "category": "lipstick",
+        "product_type": "lipstick"
+    },
+    {
+        "id": 13,
+        "name": "Syafak",
+        "image":"https://media.istockphoto.com/id/1283667115/vector/set-of-realistic-lipsticks.jpg?s=612x612&w=is&k=20&c=6rXC0RKxRWgQk_xinzZiNphHKKUGIG9SAxLjZ8t4D4w=",
+        "description":  "Blotted Lip Sheer matte lipstick that creates the perfect popsicle pout! Formula is lightweight, matte and buildable for light to medium coverage.",
+        "price": "$5",
+        "rating": null,
+        "category": "lipstick",
+        "product_type": "lipstick"
+    },
+    {
+        "id": 14,
+        "name": "Blotted Lip",
+        "image":"https://cdn.shopify.com/s/files/1/1338/0845/products/brain-freeze_a_800x1200.jpg?v=1502255076",
+        "description":  "Blotted Lip Sheer matte lipstick that creates the perfect popsicle pout! Formula is lightweight, matte and buildable for light to medium coverage.",
+        "price": "$5",
+        "rating": null,
+        "category": "lipstick",
+        "product_type": "lipstick"
+    },
+    {
+        "id": 15,
+        "name": "Ptasha Lip",
+        "image":"https://media.istockphoto.com/id/1148989438/photo/pink-lipstick-isolated-on-purple-background-with-copy-space.jpg?s=612x612&w=is&k=20&c=Adt_W3KD-PpzjcZkLcKS7iiwb3TXSmnz1FAS9K-b0CY=",
+        "description":  "Blotted Lip Sheer matte lipstick that creates the perfect popsicle pout! Formula is lightweight, matte and buildable for light to medium coverage.",
+        "price": "$5",
+        "rating": null,
+        "category": "lipstick",
+        "product_type": "lipstick"
+    },
+    {
+        "id": 16,
+        "name": "Blotted lipgloss",
+        "image":"https://media.istockphoto.com/id/1414332835/photo/smears-of-shining-lip-gloss-and-lip-gloss-brush-on-pink-background-hard-shadows.jpg?s=612x612&w=is&k=20&c=wjqFJTok0n_ifJKyYqDMdPUFJfXINsX4RoVf0emp1Ps=",
+        "description":  "Blotted Lip Sheer matte lipstick that creates the perfect popsicle pout! Formula is lightweight, matte and buildable for light to medium coverage.",
+        "price": "$5",
+        "rating": null,
+        "category": "lipstick",
+        "product_type": "lipstick"
+    },
+    {
+        "id": 17,
+        "name": "Open Gloss",
+        "image":"https://media.istockphoto.com/id/1417864236/photo/lip-gloss-on-pink-background.jpg?s=612x612&w=is&k=20&c=AGsL3Ludh0HOAmxdD_Ez5UbWRYazOGZ2kxIlfRcXjEI=",
+        "description":  "Blotted Lip Sheer matte lipstick that creates the perfect popsicle pout! Formula is lightweight, matte and buildable for light to medium coverage.",
+        "price": "$5",
+        "rating": null,
+        "category": "lipstick",
+        "product_type": "lipstick"
+    },
+    {
+        "id": 18,
+        "name": "Patience",
+        "image":"https://media.istockphoto.com/id/1142163087/photo/lip-gloss-isolated.jpg?s=1024x1024&w=is&k=20&c=Ms54ZO3b_mbLi_KR44q-dJD1JVfm-AK1dZXnGTajrC8=",
+        "price": "$5",
+        "rating": null,
+        "category": "lipstick",
+        "product_type": "lipstick"
+    },
+    {
+        "id": 19,
+        "name": "Wittrock",
+        "image":"https://media.istockphoto.com/id/1165286417/photo/lipstick-and-nail-polish-on-white-background.jpg?s=612x612&w=is&k=20&c=gZ0JjnyjDtvVEuvhHvb8yfKjI6lfZfLw2MJwATN7-4Y=9j.",
+        "description":  "Blotted Lip Sheer matte lipstick that creates the perfect popsicle pout! Formula is lightweight, matte and buildable for light to medium coverage.",
+        "price": "$5",
+        "rating": null,
+        "category": "lipstick",
+        "product_type": "lipstick"
+    },
+    {
+        "id": 20,
+        "name": "Berry pink",
+        "image":"https://media.istockphoto.com/id/1178719086/photo/lip-gloss-isolated.jpg?s=612x612&w=is&k=20&c=kjHc7KmUoYBYt6ku8XfOszcqsVKR7EMiZ_Kp13YdIl0=",
+        "description":  "Blotted Lip Sheer matte lipstick that creates the perfect popsicle pout! Formula is lightweight, matte and buildable for light to medium coverage.",
+        "price": "$5",
+        "rating": null,
+        "category": "lipstick",
+        "product_type": "lipstick"
+    },
+    {
+        "id": 21,
+        "name": "Deep bronze",
+        "image":"",
+        "price": "$5",
+        "rating": null,
+        "category": "glow effect",
+        "product_type": "lipstick"
+    },
+    {
+        "id": 22,
+        "name": "Blotted Lip",
+        "image":"https://cdn.shopify.com/s/files/1/1338/0845/products/brain-freeze_a_800x1200.jpg?v=1502255076",
+        "description":  "Blotted Lip Sheer matte lipstick that creates the perfect popsicle pout! Formula is lightweight, matte and buildable for light to medium coverage.",
+        "price": "$5",
+        "rating": null,
+        "category": "lipstick",
+        "product_type": "lipstick"
+    },
+    {
+        "id": 23,
+        "name": "Blotted Lip",
+        "image":"https://cdn.shopify.com/s/files/1/1338/0845/products/brain-freeze_a_800x1200.jpg?v=1502255076",
+        "description":  "Blotted Lip Sheer matte lipstick that creates the perfect popsicle pout! Formula is lightweight, matte and buildable for light to medium coverage.",
+        "price": "$5",
+        "rating": null,
+        "category": "lipstick",
+        "product_type": "lipstick"
+    },
+    {
+        "id": 24,
+        "name": "Blotted Lip",
+        "image":"https://cdn.shopify.com/s/files/1/1338/0845/products/brain-freeze_a_800x1200.jpg?v=1502255076",
+        "description":  "Blotted Lip Sheer matte lipstick that creates the perfect popsicle pout! Formula is lightweight, matte and buildable for light to medium coverage.",
+        "price": "$5",
+        "rating": null,
+        "category": "lipstick",
+        "product_type": "lipstick"
+    },
+    {
+        "id": 25,
+        "name": "Blotted Lip",
+        "image":"https://cdn.shopify.com/s/files/1/1338/0845/products/brain-freeze_a_800x1200.jpg?v=1502255076",
+        "description":  "Blotted Lip Sheer matte lipstick that creates the perfect popsicle pout! Formula is lightweight, matte and buildable for light to medium coverage.",
+        "price": "$5",
+        "rating": null,
+        "category": "lipstick",
+        "product_type": "lipstick"
+    },
+    {
+        "id": 26,
+        "name": "Blotted Lip",
+        "image":"https://cdn.shopify.com/s/files/1/1338/0845/products/brain-freeze_a_800x1200.jpg?v=1502255076",
+        "description":  "Blotted Lip Sheer matte lipstick that creates the perfect popsicle pout! Formula is lightweight, matte and buildable for light to medium coverage.",
+        "price": "$5",
+        "rating": null,
+        "category": "lipstick",
+        "product_type": "lipstick"
+    },
+    {
+        "id": 27,
+        "name": "Blotted Lip",
+        "image":"https://cdn.shopify.com/s/files/1/1338/0845/products/brain-freeze_a_800x1200.jpg?v=1502255076",
+        "description":  "Blotted Lip Sheer matte lipstick that creates the perfect popsicle pout! Formula is lightweight, matte and buildable for light to medium coverage.",
+        "price": "$5",
+        "rating": null,
+        "category": "lipstick",
+        "product_type": "lipstick"
+    }
+
+]
