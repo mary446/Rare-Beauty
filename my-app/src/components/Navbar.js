@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { Navbar as BootstrapNavbar, Nav, Button, Modal, Form } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import "../styles/Navbar.css";
-
+import {  NavLink, Link } from "react-router-dom";
 function Navbar() {
   const [showLoginForm, setShowLoginForm] = useState(false);
   const [showSignUpForm, setShowSignUpForm] = useState(false);
@@ -56,16 +56,24 @@ function Navbar() {
   };
 
   return (
+   
     <BootstrapNavbar bg="light" expand="lg">
         <div className="navbar__title">Rare Beauty</div>
       <BootstrapNavbar.Toggle aria-controls="basic-navbar-nav" />
       <BootstrapNavbar.Collapse id="basic-navbar-nav">
         <Nav className="mr-auto">
-          <Nav.Link href="#home">Home</Nav.Link>
-          <Nav.Link href="#shop-now">Shop Now</Nav.Link>
-          <Nav.Link href="#shade-finder">Shade Finder</Nav.Link>
+        <li>
+        <NavLink to="/home">Home</NavLink>
+        </li>
+        <li>
+        <NavLink to="/shop now">Shop Now</NavLink>
+        </li>
+        <li>
+        <NavLink to="/shade finder">Shade Finder</NavLink>
+        </li>
         </Nav>
-        <div className="navbar__cart">
+        
+        <div className="ml-auto custom-navbar-buttons">
           <Button onClick={handleAddToCart}>🛒</Button>
         </div>
         <Button variant="primary" onClick={handleCheckout}>
@@ -183,6 +191,7 @@ function Navbar() {
               <Form.Control as="select" required>
                 <option>Credit Card</option>
                 <option>PayPal</option>
+                <option>Mpesa</option>
               </Form.Control>
             </Form.Group>
             <Button variant="primary" type="submit">
@@ -197,6 +206,7 @@ function Navbar() {
         </Modal.Footer>
       </Modal>
     </BootstrapNavbar>
+   
   );
 }
 

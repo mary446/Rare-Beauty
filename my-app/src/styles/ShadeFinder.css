@@ -1,0 +1,54 @@
+.shade-finder-container {
+  text-align: center;
+}
+
+.category-slider {
+  margin-bottom: 20px;
+}
+
+.category-item {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  cursor: pointer;
+  background-color: #f8f9fa; /* Background color for inactive categories */
+}
+
+.category-item.active {
+  background-color: #007bff; /* Background color for active category */
+  color: #fff; /* Text color for active category */
+}
+
+.shade-slider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.shade-item {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  display: none; /* Hide all shade items initially */
+}
+
+.shade-item.active {
+  display: block; /* Show the active shade item */
+}
+
+/* Border colors for different shade categories */
+.light img {
+  border: 2px solid #ffeaa7; /* Light shade border color */
+}
+
+.medium img {
+  border: 2px solid #fab1a0; /* Medium shade border color */
+}
+
+.dark img {
+  border: 2px solid #d63031; /* Dark shade border color */
+}
+
+

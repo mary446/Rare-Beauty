@@ -1,9 +1,17 @@
 /* Add background color to the forms */
 .navbar__title{
     font-size: 50px;
-    background-color: pink;
     align-items: center;
     display: inline;
+    color: pink;
+    text-align: center;
+}
+.mr-auto{
+    display: flex;
+    gap: 50px;
+    padding: 30px;
+    align-items: left;
+    margin-right: 15px;
 }
 .form-container {
     background-color: #f0f0f0; /* You can change the color as needed */
@@ -52,3 +60,21 @@
     height: 30px; 
     border-radius: 50%; 
   }  
+  .botton{
+    align-items: right;
+    margin-right: 20px;
+  }
+  #basic-navbar-nav{
+    align-items: right;
+    margin-right: 20px;
+  }
+  .custom-navbar-buttons {
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+  }
+  
+  .custom-navbar-buttons button {
+    margin-right: 10px; 
+  }
+  
